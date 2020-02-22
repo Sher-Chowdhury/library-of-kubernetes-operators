@@ -1,3 +1,45 @@
 [submodule "akka-cluster-operator"]
 	path = akka-cluster-operator
 	url = https://github.com/lightbend/akka-cluster-operator
+[submodule "engine-operator"]
+	path = engine-operator
+	url = https://github.com/anchore/engine-operator
+[submodule "clickhouse-operator"]
+	path = clickhouse-operator
+	url = https://github.com/altinity/clickhouse-operator
+[submodule "spark-operator"]
+	path = spark-operator
+	url = https://github.com/radanalyticsio/spark-operator
+[submodule "k8s-apim-operator"]
+	path = k8s-apim-operator
+	url = https://github.com/wso2/k8s-apim-operator
+[submodule "apicast-operator"]
+	path = apicast-operator
+	url = https://github.com/3scale/apicast-operator
+[submodule "appsody-operator"]
+	path = appsody-operator
+	url = https://github.com/appsody/appsody-operator
+[submodule "aqua-operator"]
+	path = aqua-operator
+	url = https://github.com/aquasecurity/aqua-operator
+[submodule "argocd-operator"]
+	path = argocd-operator
+	url = https://github.com/argoproj-labs/argocd-operator
+[submodule "atlasmap-operator"]
+	path = atlasmap-operator
+	url = https://github.com/atlasmap/atlasmap-operator
+[submodule "aws-s3-provisioner"]
+	path = aws-s3-provisioner
+	url = https://github.com/yard-turkey/aws-s3-provisioner
+[submodule "kafka-operator"]
+	path = kafka-operator
+	url = https://github.com/banzaicloud/kafka-operator
+[submodule "camel-k"]
+	path = camel-k
+	url = https://github.com/apache/camel-k
+[submodule "cassandra-operator"]
+	path = cassandra-operator
+	url = https://github.com/instaclustr/cassandra-operator
+[submodule "cockroachdb-operator"]
+	path = cockroachdb-operator
+	url = https://github.com/dmesser/cockroachdb-operator
