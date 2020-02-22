@@ -43,3 +43,93 @@
 [submodule "cockroachdb-operator"]
 	path = cockroachdb-operator
 	url = https://github.com/dmesser/cockroachdb-operator
+[submodule "jaeger-operator"]
+	path = jaeger-operator
+	url = https://github.com/jaegertracing/jaeger-operator
+[submodule "composable"]
+	path = composable
+	url = https://github.com/IBM/composable
+[submodule "container-security-operator"]
+	path = container-security-operator
+	url = https://github.com/quay/container-security-operator
+[submodule "postgres-operator"]
+	path = postgres-operator
+	url = https://github.com/CrunchyData/postgres-operator
+[submodule "dynatrace-oneagent-operator"]
+	path = dynatrace-oneagent-operator
+	url = https://github.com/Dynatrace/dynatrace-oneagent-operator
+[submodule "che-operator"]
+	path = che-operator
+	url = https://github.com/eclipse/che-operator
+[submodule "cloud-on-k8s"]
+	path = cloud-on-k8s
+	url = https://github.com/elastic/cloud-on-k8s
+[submodule "esindex-operator"]
+	path = esindex-operator
+	url = https://github.com/IBM/esindex-operator
+[submodule "enmasse"]
+	path = enmasse
+	url = https://github.com/EnMasseProject/enmasse
+[submodule "etcd-operator"]
+	path = etcd-operator
+	url = https://github.com/coreos/etcd-operator
+[submodule "eunomia"]
+	path = eunomia
+	url = https://github.com/KohlsTechnology/eunomia
+[submodule "event-streams-topic"]
+	path = event-streams-topic
+	url = https://github.com/IBM/event-streams-topic
+[submodule "federatorai-operator"]
+	path = federatorai-operator
+	url = https://github.com/containers-ai/federatorai-operator
+[submodule "grafana-operator"]
+	path = grafana-operator
+	url = https://github.com/integr8ly/grafana-operator
+[submodule "operator"]
+	path = operator
+	url = https://github.com/halkyonio/operator
+[submodule "hazelcast-operator"]
+	path = hazelcast-operator
+	url = https://github.com/hazelcast/hazelcast-operator
+[submodule "hpa-operator"]
+	path = hpa-operator
+	url = https://github.com/banzaicloud/hpa-operator
+[submodule "cloud-operators"]
+	path = cloud-operators
+	url = https://github.com/IBM/cloud-operators
+[submodule "cos-bucket-operator"]
+	path = cos-bucket-operator
+	url = https://github.com/IBM/cos-bucket-operator
+[submodule "ibm-spectrum-scale-csi-operator"]
+	path = ibm-spectrum-scale-csi-operator
+	url = https://github.com/IBM/ibm-spectrum-scale-csi-operator/
+[submodule "infinispan-operator"]
+	path = infinispan-operator
+	url = https://github.com/infinispan/infinispan-operator
+[submodule "instana-agent-operator"]
+	path = instana-agent-operator
+	url = https://github.com/instana/instana-agent-operator
+[submodule "iot-simulator-operator"]
+	path = iot-simulator-operator
+	url = https://github.com/ctron/iot-simulator-operator
+[submodule "istio-operator"]
+	path = istio-operator
+	url = https://github.com/banzaicloud/istio-operator
+[submodule "kubernetes-operator"]
+	path = kubernetes-operator
+	url = https://github.com/jenkinsci/kubernetes-operator
+[submodule "keda-olm-operator"]
+	path = keda-olm-operator
+	url = https://github.com/kedacore/keda-olm-operator
+[submodule "keycloak-operator"]
+	path = keycloak-operator
+	url = https://github.com/keycloak/keycloak-operator
+[submodule "kiali"]
+	path = kiali
+	url = https://github.com/kiali/kiali
+[submodule "eventing-operator"]
+	path = eventing-operator
+	url = https://github.com/knative/eventing-operator
+[submodule "serving-operator"]
+	path = serving-operator
+	url = https://github.com/knative/serving-operator
