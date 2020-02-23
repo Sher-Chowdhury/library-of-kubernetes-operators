@@ -133,3 +133,153 @@
 [submodule "serving-operator"]
 	path = serving-operator
 	url = https://github.com/knative/serving-operator
+[submodule "kong-operator"]
+	path = kong-operator
+	url = https://github.com/kong/kong-operator
+[submodule "kubefed-operator"]
+	path = kubefed-operator
+	url = https://github.com/openshift/kubefed-operator
+[submodule "kfctl"]
+	path = kfctl
+	url = https://github.com/kubeflow/kfctl
+[submodule "kubemq-operator"]
+	path = kubemq-operator
+	url = https://github.com/kubemq-io/kubemq-operator
+[submodule "kubestone"]
+	path = kubestone
+	url = https://github.com/xridge/kubestone
+[submodule "kubeturbo"]
+	path = kubeturbo
+	url = https://github.com/turbonomic/kubeturbo
+[submodule "kubevirt"]
+	path = kubevirt
+	url = https://github.com/kubevirt/kubevirt
+[submodule "lib-bucket-provisioner"]
+	path = lib-bucket-provisioner
+	url = https://github.com/kube-object-storage/lib-bucket-provisioner
+[submodule "console-charts"]
+	path = console-charts
+	url = https://github.com/lightbend/console-charts
+[submodule "chaos-operator"]
+	path = chaos-operator
+	url = https://github.com/litmuschaos/chaos-operator
+[submodule "mattermost-operator"]
+	path = mattermost-operator
+	url = https://github.com/mattermost/mattermost-operator
+[submodule "operator-metering"]
+	path = operator-metering
+	url = https://github.com/operator-framework/operator-metering
+[submodule "microcks-ansible-operator"]
+	path = microcks-ansible-operator
+	url = https://github.com/microcks/microcks-ansible-operator
+[submodule "minio-operator"]
+	path = minio-operator
+	url = https://github.com/minio/minio-operator
+[submodule "mongodb-enterprise-kubernetes"]
+	path = mongodb-enterprise-kubernetes
+	url = https://github.com/mongodb/mongodb-enterprise-kubernetes
+[submodule "multicloud-operators-subscription"]
+	path = multicloud-operators-subscription
+	url = https://github.com/IBM/multicloud-operators-subscription
+[submodule "neuvector-operator"]
+	path = neuvector-operator
+	url = https://github.com/neuvector/neuvector-operator
+[submodule "nexus-operator"]
+	path = nexus-operator
+	url = https://github.com/m88i/nexus-operator
+[submodule "noobaa-operator"]
+	path = noobaa-operator
+	url = https://github.com/noobaa/noobaa-operator
+[submodule "nuodb-operator"]
+	path = nuodb-operator
+	url = https://github.com/nuodb/nuodb-operator
+[submodule "open-liberty-operator"]
+	path = open-liberty-operator
+	url = https://github.com/OpenLiberty/open-liberty-operator
+[submodule "helm-operator"]
+	path = helm-operator
+	url = https://github.com/openebs/helm-operator
+[submodule "percona-server-mongodb-operator"]
+	path = percona-server-mongodb-operator
+	url = https://github.com/percona/percona-server-mongodb-operator
+[submodule "percona-xtradb-cluster-operator"]
+	path = percona-xtradb-cluster-operator
+	url = https://github.com/percona/percona-xtradb-cluster-operator
+[submodule "postgresql-operator"]
+	path = postgresql-operator
+	url = https://github.com/janepelladinesh/postgresql-operator
+[submodule "operators-with-duplicate-names/postgresql-operator"]
+	path = operators-with-duplicate-names/postgresql-operator
+	url = https://github.com/dev4devs-com/postgresql-operator
+[submodule "operators-with-duplicate-names/more-dup-names/postgresql-operator"]
+	path = operators-with-duplicate-names/more-dup-names/postgresql-operator
+	url = https://github.com/janepelladinesh/postgresql-operator
+[submodule "operators-with-duplicate-names/more-dup-names/postgres-operator"]
+	path = operators-with-duplicate-names/more-dup-names/postgres-operator
+	url = https://github.com/zalando/postgres-operator
+[submodule "operators-with-duplicate-names/postgres-operator"]
+	path = operators-with-duplicate-names/postgres-operator
+	url = https://github.com/zalando/postgres-operator
+[submodule "prometheus-operator"]
+	path = prometheus-operator
+	url = https://github.com/coreos/prometheus-operator
+[submodule "quay-operator"]
+	path = quay-operator
+	url = https://github.com/redhat-cop/quay-operator
+[submodule "ripsaw"]
+	path = ripsaw
+	url = https://github.com/cloud-bulldozer/ripsaw/
+[submodule "rook"]
+	path = rook
+	url = https://github.com/rook/rook
+[submodule "rqlite-operator"]
+	path = rqlite-operator
+	url = https://github.com/jmccormick2001/rqlite-operator
+[submodule "seldon-operator"]
+	path = seldon-operator
+	url = https://github.com/SeldonIO/seldon-operator
+[submodule "sematext-operator"]
+	path = sematext-operator
+	url = https://github.com/sematext/sematext-operator
+[submodule "siddhi-operator"]
+	path = siddhi-operator
+	url = https://github.com/siddhi-io/siddhi-operator/
+[submodule "skydive-operator"]
+	path = skydive-operator
+	url = https://github.com/skydive-project/skydive-operator
+[submodule "spark-on-k8s-operator"]
+	path = spark-on-k8s-operator
+	url = https://github.com/GoogleCloudPlatform/spark-on-k8s-operator
+[submodule "cluster-operator"]
+	path = cluster-operator
+	url = https://github.com/storageos/cluster-operator
+[submodule "strimzi-kafka-operator"]
+	path = strimzi-kafka-operator
+	url = https://github.com/strimzi/strimzi-kafka-operator
+[submodule "submariner"]
+	path = submariner
+	url = https://github.com/submariner-io/submariner
+[submodule "synopsys-operator"]
+	path = synopsys-operator
+	url = https://github.com/blackducksoftware/synopsys-operator
+[submodule "sysdig-operator"]
+	path = sysdig-operator
+	url = https://github.com/sysdiglabs/sysdig-operator/
+[submodule "tidb-operator"]
+	path = tidb-operator
+	url = https://github.com/pingcap/tidb-operator
+[submodule "t8c-install"]
+	path = t8c-install
+	url = https://github.com/turbonomic/t8c-install
+[submodule "bank-vaults"]
+	path = bank-vaults
+	url = https://github.com/banzaicloud/bank-vaults
+[submodule "wavefront-operator"]
+	path = wavefront-operator
+	url = https://github.com/wavefrontHQ/wavefront-operator
+[submodule "wildfly-operator"]
+	path = wildfly-operator
+	url = https://github.com/wildfly/wildfly-operator
+[submodule "yugabyte-operator"]
+	path = yugabyte-operator
+	url = https://github.com/yugabyte/yugabyte-operator
